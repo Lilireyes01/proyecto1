@@ -5,30 +5,36 @@
 
     font-size: 30px;
     font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
 
-    }
+}
 #inicio{
     background-image: url("../imagenes/slider-campo.png");
     background-size: cover;
     background-position: center;
-    }
+}
  #inicio p{ 
     font-weight: bold;
     color: white;
     text-shadow: 2px 2px 2px rgba(0,0,0,0.6);
-    }
+}
 #inicio h1{ 
     font-weight: bold;
     color:#ffd581;
     text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
-    }
+}
+#productos h2{
+    font-weight:500;
+}
+
 
 .botoncontacto { 
 
     background-color:#E86E7F;
     color:white;
     
-  } 
+} 
 .navbar-custom {
     flex-direction: column;
     align-items: center;
@@ -49,6 +55,10 @@
 #clientes {
 
     background-color: aquamarine;
+}
+
+#clientes h2{
+    font-weight: 500;
 }
 
 #clientes .card {

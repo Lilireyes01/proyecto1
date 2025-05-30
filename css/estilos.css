@@ -8,7 +8,7 @@
 
     }
 #inicio{
-    background-image: url("/imagenes/slider-campo.png");
+    background-image: url("../imagenes/slider-campo.png");
     background-size: cover;
     background-position: center;
     }

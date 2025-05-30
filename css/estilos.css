@@ -46,6 +46,11 @@
     background-color: #E86E7F;
 }
 
+#clientes {
+
+    background-color: aquamarine;
+}
+
 #clientes .card {
     border: none;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
@@ -58,6 +63,21 @@
 .conejocontacto{
     max-width: 100px;
 }
+
+.listafooter a{
+    color:#fdc4cc;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.listafooter a:hover{
+    color:white;
+}
+.listafooter li{
+    display: inline;
+}
+
 
 .redessociales a {
     color: white;

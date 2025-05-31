@@ -35,6 +35,11 @@
     color:white;
     
 } 
+.botoncontacto:hover {
+    color:white;
+    background-color:#b64a58 ;
+
+}
 .navbar-custom {
     flex-direction: column;
     align-items: center;
